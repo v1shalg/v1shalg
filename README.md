@@ -1,6 +1,4 @@
 <!-- Profile Header -->
-<img src="wolf.png" alt="wolf" style="border-radius: 10px;"/>
-<hr>
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+🐺;+I'm+Vishal+Gahlawat!;" />
 </h1>
@@ -32,13 +30,6 @@
     <a href="https://leetcode.com/u/v1shalg/" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
-</div>
-
-<!-- GitHub Stats -->
-<h2 align="center" style="margin-top: 40px;"> GitHub Stats </h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=v1shalg&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
-    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=v1shalg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
 </div>
 
 <div align="center">
