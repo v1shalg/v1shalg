@@ -41,7 +41,36 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![FIGMA](https://www.bing.com/images/search?view=detailV2&ccid=eS3TwTMt&id=95228F3C74DAEF08601417CDF08BA177D0F42D74&thid=OIP.eS3TwTMtMk3Uy8QgqkphTgHaHa&mediaurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2429%2FPNG%2F512%2Ffigma_logo_icon_147289.png&exph=512&expw=512&q=figma+logo&simid=607993677431272824&FORM=IRPRST&ck=7470E85880EBF3A09AB4749526475519&selectedIndex=10&itb=1&cw=1334&ch=708&ajaxhist=0&ajaxserp=0)
-</div>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### **DevOps & Cloud:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=Amazon_AWS&logoColor=white) ![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+### **Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Operating Systems:**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Vishal Gahlawat"
+        self.current_focus = "Backend development and AWS"
+        self.interests = [
+            "Software Engineering",
+            "Web Development",
+            "Competitive Coding",
+            "Open-source Contributions",
+            "Tech Innovation",
+            "Basketball"
+            "Badminton"
+        ]
+    
+    def hometown(self):
+        return "shastri nagar, pathankot" 
+    
+
+me = Aspiring Software Engineer()
+```
  
