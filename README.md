@@ -32,11 +32,4 @@
     </a>
 </div>
 
-<div align="center">
-    <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=v1shalg&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages"/>
-</div>
-
-<!-- Profile Views -->
-<div align="center" style="margin-top: 30px;">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=v1shalg.v1shalg" alt="Profile Views"/>
-</div>
+ 
